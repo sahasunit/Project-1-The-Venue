@@ -1,3 +1,3 @@
-To start the application, Neter in your CLI
+To start the application, enter in your CLI
 yarn install
 yarn start
